@@ -1,0 +1,1 @@
+Run thomas_v2_clvpm.sh from the subject directory that THOMAS was run in (should have left/ and right/ paths containing THOMAS results)
